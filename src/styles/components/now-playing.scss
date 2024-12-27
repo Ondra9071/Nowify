@@ -6,7 +6,8 @@
  */
 .now-playing {
   // background-color: var(--colour-background-now-playing);
-  background-image: linear-gradient(to right top, #006f0e, #02630f, #03580f, #054d0f, #06420e);
+  background: rgb(2,0,36);
+  background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
   color: var(--color-text-primary);
   display: flex;
   flex-flow: column nowrap;
